@@ -1,0 +1,1 @@
+Display hit animation only on HIT (at certain point)
